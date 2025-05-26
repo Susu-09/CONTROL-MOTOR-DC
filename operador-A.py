@@ -1,7 +1,7 @@
 import requests
 
 # Cambia esta IP por la IP de la máquina donde corre servidor.py
-SERVER_IP = "255.255.255.0"
+SERVER_IP = "8.1.52""
 
 while True:
     cmd = input("Escribe ON para encender o OFF para apagar (salir para terminar): ").strip().upper()
